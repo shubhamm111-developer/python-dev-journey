@@ -7,3 +7,4 @@ div = bill/people
 new = div + bill_with_tip
 this = (round("every one is to pay is", new))
 print(this)
+git status
